@@ -1,0 +1,24 @@
+{
+  "name": "hackathon---jump2digital",
+  "version": "1.0.0",
+  "description": "Proyecto para la hackathon",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "app": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotDDB/hackathon.git#main"
+  },
+  "author": "Alex Vieites Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotDDB/hackathon/issues"
+  },
+  "homepage": "https://github.com/NotDDB/hackathon/tree/main#readme",
+  "dependencies": {
+    "express": "4.18.2",
+    "mysql2": "^3.6.1"
+  }
+}
